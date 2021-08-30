@@ -1,5 +1,5 @@
 # Trivia API
-I ave used this trivia quiz API in this to fetch quiz data through it.
+I have used this trivia quiz API in this project to fetch quiz data through it.
 https://opentdb.com/api.php?amount=20&category=${9 to 32}&difficulty=${ easy or medium or hard }&type=multiple
 
 Also I have used Material ui for designing and React-router-dom for smooth routing.
